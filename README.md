@@ -1,6 +1,8 @@
 # flipper_animations
 Fliper Zero Animations
 
+
+• Dinamo Zagreb
 ![dinamo](https://github.com/evillero/flipper_animations/blob/main/dinamo_zagreb.png)
 
 ![bmw](https://github.com/evillero/flipper_animations/blob/main/bmw.png)
