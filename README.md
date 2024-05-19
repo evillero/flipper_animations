@@ -10,3 +10,7 @@ Fliper Zero Animations
 ![load](https://github.com/evillero/flipper_animations/blob/main/loading.png)
 
 ![road](https://github.com/evillero/flipper_animations/blob/main/road.png)
+
+![ant](https://github.com/evillero/flipper_animations/blob/main/spy_ant.png)
+
+![turtle](https://github.com/evillero/flipper_animations/blob/main/spy_turtle.png)
