@@ -5,9 +5,19 @@ Fliper Zero Animations
 
 ![bmw](https://github.com/evillero/flipper_animations/blob/main/bmw.png)
 
+[![boar](https://github.com/evillero/flipper_animations/blob/main/boar.png)
+
+[![cat](https://github.com/evillero/flipper_animations/blob/main/%20cat.png)
+
+[![squirrel](https://github.com/evillero/flipper_animations/blob/main/flying_squirrel.png)
+
+[![hedgehog](https://github.com/evillero/flipper_animations/blob/main/hedgehog.png)
+
 ![munje](https://github.com/evillero/flipper_animations/blob/main/lightning.png)
 
 ![load](https://github.com/evillero/flipper_animations/blob/main/loading.png)
+
+![mole](https://github.com/evillero/flipper_animations/blob/main/mole.png)
 
 ![road](https://github.com/evillero/flipper_animations/blob/main/road.png)
 
