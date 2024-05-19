@@ -5,8 +5,8 @@ Fliper Zero Animations
 
 ![bmw](https://github.com/evillero/flipper_animations/blob/main/bmw.png)
 
-![load](https://github.com/evillero/flipper_animations/blob/main/lightning.png)
+![munje](https://github.com/evillero/flipper_animations/blob/main/lightning.png)
 
 ![load](https://github.com/evillero/flipper_animations/blob/main/loading.png)
 
-
+![road](https://github.com/evillero/flipper_animations/blob/main/road.png)
