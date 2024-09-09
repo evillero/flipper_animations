@@ -20,6 +20,8 @@ Fliper Zero Animations
 
 ![mole](https://github.com/evillero/flipper_animations/blob/main/mole.png)
 
+![motel](https://github.com/evillero/flipper_animations/blob/main/motel.png)
+
 ![road](https://github.com/evillero/flipper_animations/blob/main/road.png)
 
 ![ant](https://github.com/evillero/flipper_animations/blob/main/spy_ant.png)
