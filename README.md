@@ -12,6 +12,8 @@ Fliper Zero Animations
 
 [![cat](https://github.com/evillero/flipper_animations/blob/main/gallery/%20cat.png)
 
+[![diamonds](https://github.com/evillero/flipper_animations/blob/main/gallery/diamonds.png)
+
 [![squirrel](https://github.com/evillero/flipper_animations/blob/main/gallery/flying_squirrel.png)
 
 [![hedgehog](https://github.com/evillero/flipper_animations/blob/main/gallery/hedgehog.png)
