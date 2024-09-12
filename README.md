@@ -1,9 +1,9 @@
 # flipper_animations
 Fliper Zero Animations
 
-* dinamo
+
 ![dinamo](https://github.com/evillero/flipper_animations/blob/main/gallery/dinamo_zagreb.png)
-*biohazard
+
 ![biohazard](https://github.com/evillero/flipper_animations/blob/main/gallery/biohazard.png)
 
 ![bmw](https://github.com/evillero/flipper_animations/blob/main/gallery/bmw.png)
