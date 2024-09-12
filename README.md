@@ -20,6 +20,8 @@ Fliper Zero Animations
 
 [![frankenstein](https://github.com/evillero/flipper_animations/blob/main/gallery/frankenstein.png)
 
+[![grimreaper](https://github.com/evillero/flipper_animations/blob/main/gallery/grimreaper.png)
+
 [![hedgehog](https://github.com/evillero/flipper_animations/blob/main/gallery/hedgehog.png)
 
 ![munje](https://github.com/evillero/flipper_animations/blob/main/gallery/lightning.png)
