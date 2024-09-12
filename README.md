@@ -10,19 +10,19 @@ Fliper Zero Animations
 
 ![bmw](https://github.com/evillero/flipper_animations/blob/main/gallery/bmw.png)
 
-[![boar](https://github.com/evillero/flipper_animations/blob/main/gallery/boar.png)
+![boar](https://github.com/evillero/flipper_animations/blob/main/gallery/boar.png)
 
-[![cat](https://github.com/evillero/flipper_animations/blob/main/gallery/%20cat.png)
+![cat](https://github.com/evillero/flipper_animations/blob/main/gallery/%20cat.png)
 
-[![diamonds](https://github.com/evillero/flipper_animations/blob/main/gallery/diamonds.png)
+![diamonds](https://github.com/evillero/flipper_animations/blob/main/gallery/diamonds.png)
 
-[![squirrel](https://github.com/evillero/flipper_animations/blob/main/gallery/flying_squirrel.png)
+![squirrel](https://github.com/evillero/flipper_animations/blob/main/gallery/flying_squirrel.png)
 
-[![frankenstein](https://github.com/evillero/flipper_animations/blob/main/gallery/frankenstein.png)
+![frankenstein](https://github.com/evillero/flipper_animations/blob/main/gallery/frankenstein.png)
 
-[![grimreaper](https://github.com/evillero/flipper_animations/blob/main/gallery/grimreaper.png)
+![grimreaper](https://github.com/evillero/flipper_animations/blob/main/gallery/grimreaper.png)
 
-[![hedgehog](https://github.com/evillero/flipper_animations/blob/main/gallery/hedgehog.png)
+![hedgehog](https://github.com/evillero/flipper_animations/blob/main/gallery/hedgehog.png)
 
 ![munje](https://github.com/evillero/flipper_animations/blob/main/gallery/lightning.png)
 
@@ -35,6 +35,8 @@ Fliper Zero Animations
 ![psycho](https://github.com/evillero/flipper_animations/blob/main/gallery/psycho.png)
 
 ![road](https://github.com/evillero/flipper_animations/blob/main/gallery/road.png)
+
+![serious_bomb](https://github.com/evillero/flipper_animations/blob/main/gallery/serious_bomb.png)
 
 ![ant](https://github.com/evillero/flipper_animations/blob/main/gallery/spy_ant.png)
 
