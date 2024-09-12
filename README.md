@@ -1,31 +1,31 @@
 # flipper_animations
 Fliper Zero Animations
 
+* dinamo
+![dinamo](https://github.com/evillero/flipper_animations/blob/main/gallery/dinamo_zagreb.png)
+*biohazard
+![biohazard](https://github.com/evillero/flipper_animations/blob/main/gallery/biohazard.png)
 
-![dinamo](https://github.com/evillero/flipper_animations/blob/main/dinamo_zagreb.png)
+![bmw](https://github.com/evillero/flipper_animations/blob/main/gallery/bmw.png)
 
-![biohazard](https://github.com/evillero/flipper_animations/blob/main/biohazard.png)
+[![boar](https://github.com/evillero/flipper_animations/blob/main/gallery/boar.png)
 
-![bmw](https://github.com/evillero/flipper_animations/blob/main/bmw.png)
+[![cat](https://github.com/evillero/flipper_animations/blob/main/gallery/%20cat.png)
 
-[![boar](https://github.com/evillero/flipper_animations/blob/main/boar.png)
+[![squirrel](https://github.com/evillero/flipper_animations/blob/main/gallery/flying_squirrel.png)
 
-[![cat](https://github.com/evillero/flipper_animations/blob/main/%20cat.png)
+[![hedgehog](https://github.com/evillero/flipper_animations/blob/main/gallery/hedgehog.png)
 
-[![squirrel](https://github.com/evillero/flipper_animations/blob/main/flying_squirrel.png)
+![munje](https://github.com/evillero/flipper_animations/blob/main/gallery/lightning.png)
 
-[![hedgehog](https://github.com/evillero/flipper_animations/blob/main/hedgehog.png)
+![load](https://github.com/evillero/flipper_animations/blob/main/gallery/loading.png)
 
-![munje](https://github.com/evillero/flipper_animations/blob/main/lightning.png)
+![mole](https://github.com/evillero/flipper_animations/blob/main/gallery/mole.png)
 
-![load](https://github.com/evillero/flipper_animations/blob/main/loading.png)
+![motel](https://github.com/evillero/flipper_animations/blob/main/gallery/motel.png)
 
-![mole](https://github.com/evillero/flipper_animations/blob/main/mole.png)
+![road](https://github.com/evillero/flipper_animations/blob/main/gallery/road.png)
 
-![motel](https://github.com/evillero/flipper_animations/blob/main/motel.png)
+![ant](https://github.com/evillero/flipper_animations/blob/main/gallery/spy_ant.png)
 
-![road](https://github.com/evillero/flipper_animations/blob/main/road.png)
-
-![ant](https://github.com/evillero/flipper_animations/blob/main/spy_ant.png)
-
-![turtle](https://github.com/evillero/flipper_animations/blob/main/spy_turtle.png)
+![turtle](https://github.com/evillero/flipper_animations/blob/main/gallery/spy_turtle.png)
