@@ -4,6 +4,8 @@ Fliper Zero Animations
 
 ![dinamo](https://github.com/evillero/flipper_animations/blob/main/gallery/dinamo_zagreb.png)
 
+![back_to_the_future](https://github.com/evillero/flipper_animations/blob/main/gallery/back_to_the_future.png)
+
 ![biohazard](https://github.com/evillero/flipper_animations/blob/main/gallery/biohazard.png)
 
 ![bmw](https://github.com/evillero/flipper_animations/blob/main/gallery/bmw.png)
