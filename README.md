@@ -43,3 +43,5 @@ Fliper Zero Animations
 ![turtle](https://github.com/evillero/flipper_animations/blob/main/gallery/spy_turtle.png)
 
 ![sunglass](https://github.com/evillero/flipper_animations/blob/main/gallery/sunglass.png)
+
+![xlove](https://github.com/evillero/flipper_animations/blob/main/gallery/xlove.png)
