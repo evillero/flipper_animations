@@ -32,6 +32,8 @@ Fliper Zero Animations
 
 ![motel](https://github.com/evillero/flipper_animations/blob/main/gallery/motel.png)
 
+![psycho](https://github.com/evillero/flipper_animations/blob/main/gallery/psycho.png)
+
 ![road](https://github.com/evillero/flipper_animations/blob/main/gallery/road.png)
 
 ![ant](https://github.com/evillero/flipper_animations/blob/main/gallery/spy_ant.png)
