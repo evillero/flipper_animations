@@ -48,4 +48,6 @@ Fliper Zero Animations
 
 ![sunglass](https://github.com/evillero/flipper_animations/blob/main/gallery/sunglass.png)
 
+![the_end](https://github.com/evillero/flipper_animations/blob/main/gallery/the_end.png)
+
 ![xlove](https://github.com/evillero/flipper_animations/blob/main/gallery/xlove.png)
