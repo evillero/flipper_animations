@@ -28,6 +28,10 @@ Fliper Zero Animations
 
 ![hedgehog](https://github.com/evillero/flipper_animations/blob/main/gallery/hedgehog.png)
 
+![illusion](https://github.com/evillero/flipper_animations/blob/main/gallery/illusion.png)
+
+![illusion_1](https://github.com/evillero/flipper_animations/blob/main/gallery/illusion_1.png)
+
 ![munje](https://github.com/evillero/flipper_animations/blob/main/gallery/lightning.png)
 
 ![load](https://github.com/evillero/flipper_animations/blob/main/gallery/loading.png)
