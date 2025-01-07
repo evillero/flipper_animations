@@ -58,6 +58,13 @@ Min level: 1
 Max level: 3
 Weight: 3
 
+Name: error
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
 Name: evil_lero
 Min butthurt: 0
 Max butthurt: 5
