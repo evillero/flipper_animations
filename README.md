@@ -18,7 +18,7 @@ Fliper Zero Animations
 
 ![diamonds](https://github.com/evillero/flipper_animations/blob/main/gallery/diamonds.png)
 
-![error](https://github.com/evillero/flipper_animations/blob/main/gallery/evillero.png)
+![error](https://github.com/evillero/flipper_animations/blob/main/gallery/error.png)
 
 ![evillerp](https://github.com/evillero/flipper_animations/blob/main/gallery/evillero.png)
 
