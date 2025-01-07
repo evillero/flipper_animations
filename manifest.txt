@@ -128,6 +128,13 @@ Min level: 1
 Max level: 3
 Weight: 3
 
+Name: louis_v
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
 Name: mole
 Min butthurt: 0
 Max butthurt: 5
