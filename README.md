@@ -38,6 +38,8 @@ Fliper Zero Animations
 
 ![load](https://github.com/evillero/flipper_animations/blob/main/gallery/loading.png)
 
+![louis_v](https://github.com/evillero/flipper_animations/blob/main/gallery/louis_v.png)
+
 ![mole](https://github.com/evillero/flipper_animations/blob/main/gallery/mole.png)
 
 ![motel](https://github.com/evillero/flipper_animations/blob/main/gallery/motel.png)
