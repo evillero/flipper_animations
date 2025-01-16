@@ -66,4 +66,6 @@ Fliper Zero Animations
 
 ![the_end](https://github.com/evillero/flipper_animations/blob/main/gallery/the_end.png)
 
+![wire](https://github.com/evillero/flipper_animations/blob/main/gallery/wire.png)
+
 ![xlove](https://github.com/evillero/flipper_animations/blob/main/gallery/xlove.png)
