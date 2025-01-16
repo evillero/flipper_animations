@@ -30,6 +30,8 @@ Fliper Zero Animations
 
 ![grimreaper](https://github.com/evillero/flipper_animations/blob/main/gallery/grimreaper.png)
 
+![half_life](https://github.com/evillero/flipper_animations/blob/main/gallery/half_life.png)
+
 ![hedgehog](https://github.com/evillero/flipper_animations/blob/main/gallery/hedgehog.png)
 
 ![illusion](https://github.com/evillero/flipper_animations/blob/main/gallery/illusion.png)
