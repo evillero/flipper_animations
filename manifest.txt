@@ -163,6 +163,13 @@ Min level: 1
 Max level: 3
 Weight: 3
 
+Name: quake
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
 Name: road
 Min butthurt: 0
 Max butthurt: 5
