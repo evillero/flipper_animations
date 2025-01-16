@@ -48,6 +48,8 @@ Fliper Zero Animations
 
 ![psycho](https://github.com/evillero/flipper_animations/blob/main/gallery/psycho.png)
 
+![quake](https://github.com/evillero/flipper_animations/blob/main/gallery/quake.png)
+
 ![road](https://github.com/evillero/flipper_animations/blob/main/gallery/road.png)
 
 ![serious_bomb](https://github.com/evillero/flipper_animations/blob/main/gallery/serious_bomb.png)
