@@ -100,6 +100,13 @@ Min level: 1
 Max level: 3
 Weight: 3
 
+Name: half_life
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 3
+
 Name: hedgehog
 Min butthurt: 0
 Max butthurt: 5
