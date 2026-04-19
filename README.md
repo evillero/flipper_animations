@@ -14,6 +14,8 @@ Fliper Zero Animations
 
 ![bmw](https://github.com/evillero/flipper_animations/blob/main/gallery/bmw.png)
 
+![bmw_e90](https://github.com/evillero/flipper_animations/blob/main/gallery/bmw_e90.png)
+
 ![boar](https://github.com/evillero/flipper_animations/blob/main/gallery/boar.png)
 
 ![cat](https://github.com/evillero/flipper_animations/blob/main/gallery/%20cat.png)
